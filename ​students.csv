@@ -1,0 +1,21 @@
+StudentID,Name,Department,Maths,Physics,Chemistry,Attendance
+STU001,Aarav Sharma,CSE,85,78,92,90
+STU002,Mohammad Rafiq Tantray,CSE,92,88,95,94
+STU003,Priya Patel,ECE,74,65,70,82
+STU004,Rahul Verma,MECH,45,50,48,75
+STU005,Ananya Sen,CSE,95,91,94,96
+STU006,Rohit Kumar,CIVIL,32,40,35,68
+STU007,Sneha Reddy,ECE,88,82,85,89
+STU008,Vikas Gupta,CSE,60,58,62,80
+STU009,Neha Singh,MECH,72,75,70,85
+STU010,Karan Mehra,CIVIL,55,50,58,78
+STU011,Tariq Ahmad,CSE,90,87,89,92
+STU012,Sameer Khan,ECE,38,42,40,70
+STU013,Pooja Joshi,CSE,81,84,79,88
+STU014,Manoj Tiwari,MECH,67,70,65,83
+STU015,Simran Kaur,ECE,93,89,91,95
+STU016,Aditya Roy,CIVIL,40,35,42,65
+STU017,Zoya Akhtar,CSE,89,86,90,91
+STU018,Deepak Saini,MECH,52,58,54,77
+STU019,Kavita Rao,ECE,77,73,80,84
+STU020,Farhan Ali,CSE,30,28,34,60
